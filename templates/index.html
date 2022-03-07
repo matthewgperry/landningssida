@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ config.title }}</title>
+        <link rel="stylesheet" href="{{ get_url(path="styles.css") | safe }}">
+        <meta name="description" content="{% if page.description%}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}"
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div>Matthew Perry's Website |
+                {% for link in config.extra.nav %}
+                    <a href="{{ link.path | safe }}">{{ link.name }}</a>
+                {% endfor %}
+                </div>
+            </nav>
+            <hr>
+        </header>
+        <main>
+            {% block content %}{% endblock content %}
+        </main>
+    </body>
+</html>
