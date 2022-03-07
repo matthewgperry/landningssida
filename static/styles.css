@@ -231,3 +231,8 @@ a:focus,
 a:active {
   color: #777;
 }
+
+progress {
+  width: 36rem;
+  border-radius: 50px;
+}
