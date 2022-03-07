@@ -2,6 +2,8 @@
 base_url = "https://matthewperry.engineer"
 title = "Matthew Perry's Site"
 
+description = "A personal site and portfolio featuring technology ramblings."
+
 compile_sass = false
 build_search_index = false
 
