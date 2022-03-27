@@ -9,6 +9,7 @@ var query = `query {
     }
   }
   MediaList(userId: 5313378, sort: UPDATED_TIME_DESC) {
+    progress
     media {
       title {
         english
@@ -42,10 +43,12 @@ function handleResponse(response) {
 function handleData(data) {
   var minutesWatched = data["data"]["User"]["statistics"]["anime"]["minutesWatched"];
   var episodesWatched = data["data"]["User"]["statistics"]["anime"]["episodesWatched"];
-  var lastWatched = data["data"]["MediaList"]["media"]["title"]["english"];
+  var lastWatchedSeries = data["data"]["MediaList"]["media"]["title"]["english"];
+  var lastWatchEpisode = data["data"]["MediaList"]["progress"];
   document.getElementById("minutesWatched").innerHTML = minutesWatched;
   document.getElementById("episodesWatched").innerHTML = episodesWatched;
-  document.getElementById("lastWatched").innerHTML = lastWatched;
+  document.getElementById("lastWatchedSeries").innerHTML = lastWatchedSeries;
+  document.getElementById("lastWatchedEpisode").innerHTML = lastWatchEpisode;
 }
 
 function handleError(error) {

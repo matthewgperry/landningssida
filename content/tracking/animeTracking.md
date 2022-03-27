@@ -14,4 +14,7 @@ Minutes Watched
 Total Episodes Watched
 
 Last Series Watched:
-<b id="lastWatched"></b>
+<b id="lastWatchedSeries"></b>
+
+Last Episode Watched:
+<b id="lastWatchedEpisode"></b>
