@@ -44,11 +44,11 @@ function handleData(data) {
   var minutesWatched = data["data"]["User"]["statistics"]["anime"]["minutesWatched"];
   var episodesWatched = data["data"]["User"]["statistics"]["anime"]["episodesWatched"];
   var lastWatchedSeries = data["data"]["MediaList"]["media"]["title"]["english"];
-  var lastWatchEpisode = data["data"]["MediaList"]["progress"];
+  var lastWatchedEpisode = data["data"]["MediaList"]["progress"];
   document.getElementById("minutesWatched").innerHTML = minutesWatched;
   document.getElementById("episodesWatched").innerHTML = episodesWatched;
-  document.getElementById("lastWatchedSeries").innerHTML = lastWatchedSeries;
-  document.getElementById("lastWatchedEpisode").innerHTML = lastWatchEpisode;
+  document.getElementById("lastWatchedSeries").innerHTML = lastWatchedSeries + ",";
+  document.getElementById("lastWatchedEpisode").innerHTML = lastWatchedEpisode;
 }
 
 function handleError(error) {
