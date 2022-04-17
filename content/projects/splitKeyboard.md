@@ -109,3 +109,5 @@ However, using vim has been the biggest challenge.
 I plan to design more strange keyboards in the future, including new methods to switch between layers.
 
 ![Single half of the final product](IMG_0328.JPG)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i&#39;m concerned that if programmers can 3d print their own keyboards then all productivity will halt for a period of at least five years</p>&mdash; Paul Ford (@ftrain) <a href="https://twitter.com/ftrain/status/577205992406065152?ref_src=twsrc%5Etfw">March 15, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
