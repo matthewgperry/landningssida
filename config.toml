@@ -15,5 +15,6 @@ highlight_code = false
 # Header navigation
 nav = [
     { name = "Home", path = "/"},
-    { name = "Tracking", path = "/tracking"}
+    { name = "Tracking", path = "/tracking"},
+    { name = "Projects", path = "/projects"}
 ]

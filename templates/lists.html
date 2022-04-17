@@ -1,5 +1,6 @@
 {% extends "index.html" %}
 {% block content %}
+    {{ section.content | safe }}
     <ul style="list-style-type:none;">
         {% for page in section.pages %}
         <li><a href="{{ page.permalink | safe }}">{{ page.title | safe }}</a></li>
