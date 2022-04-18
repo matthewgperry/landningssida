@@ -221,6 +221,14 @@ a {
   color: #0a3055;
 }
 
+a[target="external"]:after {
+  content: url("arrow-up-right-from-square-solid.svg");
+  display: inline-block;
+  padding-left: .2em;
+  width: .8em;
+  height: .8em;
+}
+
 hr {
   border: 0px;
   border-top: 2px dashed #0a3055;

@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width">
         <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ config.title }}</title>
         <link rel="stylesheet" href="{{ get_url(path="styles.css") | safe }}">
+
         <meta name="description" content="{% if page.description%}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}"
     </head>
     <body>
@@ -14,6 +15,7 @@
                 {% for link in config.extra.nav %}
                     <a href="{{ link.path | safe }}">{{ link.name }}</a>
                 {% endfor %}
+                    <a href="https://github.com/matthewgperry" target="external">Github</a>
                 </div>
             </nav>
             <hr>
