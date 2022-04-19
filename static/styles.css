@@ -225,8 +225,8 @@ a[target="external"]:after {
   content: url("arrow-up-right-from-square-solid.svg");
   display: inline-block;
   padding-left: .2em;
-  width: .8em;
-  height: .8em;
+  width: .5em;
+  height: .5em;
 }
 
 hr {
@@ -238,9 +238,4 @@ a:hover,
 a:focus,
 a:active {
   color: #777;
-}
-
-progress {
-  width: 36rem;
-  border-radius: 50px;
 }

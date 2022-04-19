@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://matthewperry.engineer"
-title = "Matthew Perry's Site"
+title = "Matthew Perry"
 
 description = "A personal site and portfolio featuring technology ramblings."
 
