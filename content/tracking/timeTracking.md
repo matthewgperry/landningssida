@@ -16,7 +16,7 @@ ActivityWatch already creates graphs for up to a month of data, however raw data
 
 ## This Month's Analysis
 
-![Monthly computer usage graph](/topUrlsApril.jpg)
+![Monthly computer usage graph](topUrlsApril.jpg)
 
 These are my top visited urls, not domains, meaning websites were I broswed multiple pages frequently (i.e. reddit) are not accounted for in this ranking.
 
