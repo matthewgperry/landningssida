@@ -16,5 +16,6 @@ highlight_code = false
 nav = [
     { name = "Home", path = "/"},
     { name = "Tracking", path = "/tracking"},
-    { name = "Projects", path = "/projects"}
+    { name = "Projects", path = "/projects"},
+    { name = "Gear", path = "/gear"}
 ]
