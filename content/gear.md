@@ -12,6 +12,8 @@ template = "page.html"
 
 **Thinkpad T460p**, Intel i7-6820HQ, 16 GB ram, GeForce 940MX
 
+**Dell Poweredge T320**, Intel Xeon E5-2470 v2, 72 GB ram
+
 ### Peripherals
 
 [Quagga keyboard](/projects/splitkeyboard)
