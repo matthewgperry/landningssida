@@ -5,6 +5,7 @@ template = "page.html"
 
 ## Tech I Use
 
+All of my workstations run Artix linux, and my server runs Proxmox with a lot of Debian virtual machines running Docker.
 
 ### Computers
 
@@ -25,3 +26,5 @@ template = "page.html"
 ### Misc
 
 **Kobo Clara HD ereader**
+
+**Flipper Zero**
