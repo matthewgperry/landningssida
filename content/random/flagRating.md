@@ -246,3 +246,22 @@ A solid tricolor entry.
 A common symbol rooted in heritage and history means no point loss.
 Lots of points due to not copying the color selection.
 
+### Bahamas
+
+![Bahamas Flag](bs.png)
+
+Rating: 73 / 100
+
+A great use of a rare flag color.
+Points for using aquamarine and removing the Union Jack.
+Only wish that I saw it more places than on just on tax evading cruise ships.
+
+### Bahrain
+
+![Bahrain Flag](bh.png)
+
+Rating: 61 / 100
+
+Points deduced due to the similarity with Qatar.
+Interestingly, even the historical flags are similar to Qatar's.
+Of course the 5 points stand for the Five Pillars of Islam, but outside of that it is easier to view than the 28 points.
