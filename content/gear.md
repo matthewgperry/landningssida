@@ -9,9 +9,9 @@ All of my workstations run Artix linux, and my server runs Proxmox with a lot of
 
 ### Computers
 
-**Main PC**, Intel i5-7600K, 8 GB ram, GeForce GTX 1060 6 GB
+**Main PC**, AMD Ryzen 7 7700x, 32 GB DDR5-6000, RX 7800 XT 16 GB
 
-**Thinkpad T460p**, Intel i7-6820HQ, 16 GB ram, GeForce 940MX
+**Thinkpad T460p**, Intel i7-6820HQ, 16 GB RAM, GeForce 940MX
 
 **Dell Poweredge T320**, Intel Xeon E5-2470 v2, 72 GB ram
 
@@ -20,6 +20,8 @@ All of my workstations run Artix linux, and my server runs Proxmox with a lot of
 [Quagga keyboard](/projects/splitkeyboard)
 
 **Tester68 keyboard**, Gateron Yellow Pro switches
+
+**YMDK YMD40 (AIR40)**, Cherry "New Nixies" switches
 
 **Logitech G402 mouse**
 
