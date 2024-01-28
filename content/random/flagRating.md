@@ -114,7 +114,7 @@ Overall, a solid flag, something to proud of.
 Rating: 46 / 100
 
 Overused star and crescent.
-Points for good star placmemt.
+Points for good star placement.
 Good shade of green.
 Overall, a good bicolor flag held back by its overused symbol.
 
@@ -127,7 +127,7 @@ Rating: 65 / 100
 Very American.
 Not very Samoan.
 A lots of points using a high schooler's design.
-The fue and uatogi should be have higher constract on the white triangle, draw the eye away from the eagle.
+The fue and uatogi should be have higher contrast against the white triangle, drawing the eye away from the eagle.
 
 ### Andorra
 
@@ -136,9 +136,9 @@ The fue and uatogi should be have higher constract on the white triangle, draw t
 Rating: 60 / 100
 
 Initially this had a lower score, but I learned this the first adopted (1866) tricolor of these colors.
-This flag has a list of requriments for it include, and I recongize that as a hard task.
+This flag has a list of requirements for it include, and I recognize that as a hard task.
 This flag has to include a bit of France, Foix, and Catalonia in the design.
-Maybe a seal the best opition in this case.
+Maybe a seal the best option in this case.
 The tricolor is a good choice, and everyone else copied it, so I feel sorry for it.
 Overall, this flag is a pretty good attempt to include a long list of regions and cultures, on the backdrop of the tricolor of the most boring Napoleon.
 
@@ -148,7 +148,7 @@ Overall, this flag is a pretty good attempt to include a long list of regions an
 
 Rating: 80 / 100
 
-A good representation of having a powerful recongizable symbol.
+A good representation of having a powerful recognizable symbol.
 This flag attempts its own take on the hammer and sickle, which is more rare on flags today (meaning no loss of points).
 The government made a new, happier flag in 2003, but no one uses it, and to be honest I see why; this shit is hard.
 
@@ -246,3 +246,22 @@ A solid tricolor entry.
 A common symbol rooted in heritage and history means no point loss.
 Lots of points due to not copying the color selection.
 
+### Bahamas
+
+![Bahamas Flag](bs.png)
+
+Rating: 73 / 100
+
+A great use of a rare flag color.
+Points for using aquamarine and removing the Union Jack.
+Only wish that I saw it more places than on just on tax evading cruise ships.
+
+### Bahrain
+
+![Bahrain Flag](bh.png)
+
+Rating: 61 / 100
+
+Points deduced due to the similarity with Qatar.
+Interestingly, even the historical flags are similar to Qatar's.
+Of course the 5 points stand for the Five Pillars of Islam, but outside of that it is easier to view than the 28 points.
