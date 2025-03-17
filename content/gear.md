@@ -22,15 +22,17 @@ All of my workstations run Artix linux, and my server runs Proxmox with a lot of
 
 ### Peripherals
 
+**Custom Tofu60 2.0**, modded plate and PCB to fit Alps, Alps Salmon switches, HHKB layout. Currently my daily driver, due to the price I paid for all the parts.
+
 [Quagga keyboard](/projects/splitkeyboard)
 
-**Tester68 keyboard**, Gateron Yellow Pro switches
+**Tester68 keyboard**, Gateron Yellow Pro switches.
 
-**YMDK YMD40 (AIR40)**, Cherry "New Nixies" switches
+**YMDK YMD40 (AIR40)**, Cherry "New Nixies" switches.
 
 [Waterfowl Keyboard](https://keeb.io/products/waterfowl-36-key-split-keyboard-kit), Boba U4T Silent switches, currently broken :(
 
-**Logitech G402 mouse**
+**Logitech G502 mouse**, I hate shopping for mice.
 
 ### Misc
 
