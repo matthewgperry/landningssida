@@ -146,7 +146,7 @@ Overall, this flag is a pretty good attempt to include a long list of regions an
 
 ![Angola Flag](ao.png)
 
-Rating: 80 / 100
+Rating: 85 / 100
 
 A good representation of having a powerful recognizable symbol.
 This flag attempts its own take on the hammer and sickle, which is more rare on flags today (meaning no loss of points).
@@ -265,3 +265,37 @@ Rating: 61 / 100
 Points deduced due to the similarity with Qatar.
 Interestingly, even the historical flags are similar to Qatar's.
 Of course the 5 points stand for the Five Pillars of Islam, but outside of that it is easier to view than the 28 points.
+
+### Bangladesh
+
+![Bangladesh Flag](bd.png)
+
+Rating: 73 / 100
+
+I understand the decision to simplify the flag from the original (with the map of Bangladesh).
+Classical red symbolism, representing blood, but I didn't know that green was supposed to represent the lushness of the land.
+Overall, the "Japanese Circle" motif is not overused, so it works for Bangladesh.
+
+### Barbados
+
+![Barbados Flag](bb.png)
+
+Rating: 85 / 100
+
+A wonderful flag.
+Extremely recognizable, even for those who don't use cruise ships trying to avoid taxes.
+
+### Belarus
+
+![Belrus Flag](by.png)
+
+Rating: 51 / 100
+
+The ratio is unique, but frankly pointless.
+The "complex" (for a flag) pattern on the edge is interesting, since that part will stay flat on a pole.
+
+### Belgium
+
+![Belgium Flag](be.png)
+
+
